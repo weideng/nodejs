@@ -5,11 +5,19 @@ nodejs + mongoose + mongodb
 1. 下载、安装nodejs
    https://nodejs.org
 
+### For MongoDB
 2. 下载、安装mongodb
    https://www.mongodb.com/
 
 3. 运行`npm install`
-4. 运行 `nodejs mongoose.js`
-5. 通过mongoose GUI 工具查看mongodb数据
-   推荐跨平台工具MongoBooster
+4. 运行 `node mongoose.js`
+5. 通过 mongoose GUI 工具查看mongodb数据
+   推荐跨平台工具 MongoBooster
    http://mongobooster.com/downloads
+
+### For Mysql
+2. 下载、安装Mysql
+3. 建立数据库test，建表users
+4. 新建用户tiger, 密码tiger，授权访问test库
+5. 运行 `node mysql`
+
