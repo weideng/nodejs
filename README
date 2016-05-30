@@ -14,10 +14,20 @@ nodejs + mongoose + mongodb
 5. 通过 mongoose GUI 工具查看mongodb数据
    推荐跨平台工具 MongoBooster
    http://mongobooster.com/downloads
+6. 更多教程：
+   http://mongoosejs.com/
 
 ### For Mysql
 2. 下载、安装Mysql
 3. 建立数据库test，建表users
 4. 新建用户tiger, 密码tiger，授权访问test库
 5. 运行 `node mysql`
+6. 更多教程：
+   https://github.com/felixge/node-mysql
 
+### For Redis
+2. 下载、安装 Redis
+3. 运行 Redis server
+4. 运行 `node redis.js`
+5. 更多教程:
+   https://www.sitepoint.com/using-redis-node-js/
