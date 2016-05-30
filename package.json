@@ -1,0 +1,18 @@
+{
+  "name": "nodejs develop",
+  "version": "1.0.0",
+  "description": "nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "spider"
+  ],
+  "author": "wei deng",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.1.10",
+    "mongoose": "^4.4.8"
+  }
+}

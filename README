@@ -1,0 +1,15 @@
+nodejs + mongoose + mongodb
+通过mongoose操作mongodb数据库。
+
+使用步骤：
+1. 下载、安装nodejs
+   https://nodejs.org
+
+2. 下载、安装mongodb
+   https://www.mongodb.com/
+
+3. 运行`npm install`
+4. 运行 `nodejs mongoose.js`
+5. 通过mongoose GUI 工具查看mongodb数据
+   推荐跨平台工具MongoBooster
+   http://mongobooster.com/downloads
